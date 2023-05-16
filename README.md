@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/joro.georgiev.94/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jorogeorgiev765/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-georgiev-04649b234/) 
+
 <!--
 **Joro765/Joro765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
